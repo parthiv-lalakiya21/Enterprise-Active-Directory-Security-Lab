@@ -328,7 +328,7 @@ Verified firewall enabled on all profiles.
 
 ## Domain Users
 
-![Domain Users](screenshots/domain-join.png)
+![Domain Users](screenshots/hr-users.png)
 
 ---
 
