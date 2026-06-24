@@ -419,6 +419,6 @@ B.Tech Information Technology
 
 Aspiring SOC Analyst | Windows Security | Active Directory | Cybersecurity
 
-LinkedIn: Add Your LinkedIn Profile Here
+LinkedIn:  https://www.linkedin.com/in/parthiv-lalakiya
 
-GitHub: Add Your GitHub Profile Here
+ 
