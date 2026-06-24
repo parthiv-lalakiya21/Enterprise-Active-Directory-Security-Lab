@@ -314,15 +314,11 @@ Verified firewall enabled on all profiles.
 
 ## Active Directory Structure
 
-![AD Structure](screenshots/ad-structure.png)
+![AD Structure](screenshots/ad-ou-structure.png)
 
 ---
 
-## Organizational Units
 
-![OU Structure](screenshots/ou-structure.png)
-
----
 
 ## Security Groups
 
@@ -332,7 +328,7 @@ Verified firewall enabled on all profiles.
 
 ## Domain Users
 
-![Domain Users](screenshots/domain-users.png)
+![Domain Users](screenshots/domain-join.png)
 
 ---
 
@@ -356,13 +352,13 @@ Verified firewall enabled on all profiles.
 
 ## Shared Folder Permissions
 
-![Folder Permissions](screenshots/folder-permissions.png)
+![Folder Permissions](screenshots/ntfs-permissions.png)
 
 ---
 
 ## USB Restriction Policy
 
-![USB Restriction](screenshots/usb-restriction.png)
+![USB Restriction](screenshots/usb-block.png)
 
 ---
 
@@ -374,7 +370,7 @@ Verified firewall enabled on all profiles.
 
 ## Security Audit Logs
 
-![Audit Logs](screenshots/audit-logs.png)
+![Audit Logs](screenshots/event-id-4624.png)
 
 ---
 
